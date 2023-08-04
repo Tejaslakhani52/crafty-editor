@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #edf0f9;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+input,
+div,
+button,
+ul,
+li {
+  font-family: "Inter" !important;
+  color: "#1C3048";
+}
+
+input:focus {
+  outline: none;
+}
+
+input {
+  background-color: transparent;
+  font-size: 14px;
+}
+
+.bg_linear {
+  background: linear-gradient(
+    268.03deg,
+    #5961f8 -0.66%,
+    #15d8c5 100%,
+    #15d8c5 100%
+  );
+}
+
+.menu_hover:hover {
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.3),
+    8px 8px 16px rgba(171, 178, 199, 0.5),
+    inset 8px 8px 16px rgba(171, 178, 199, 0.3),
+    inset -8px -8px 16px rgba(255, 255, 255, 0.7);
+}
+
+.threed_shadow {
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.3),
+    8px 8px 16px rgba(171, 178, 199, 0.5),
+    inset 8px 8px 16px rgba(171, 178, 199, 0.3),
+    inset -8px -8px 16px rgba(255, 255, 255, 0.7);
+}
+
+.scroll_none::-webkit-scrollbar {
+  display: none !important;
+}
+
+
+.main_layout{
+  display: flex;
+}

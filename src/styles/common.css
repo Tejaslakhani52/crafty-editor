@@ -1,0 +1,137 @@
+.justify_center {
+  display: flex;
+  justify-content: center;
+}
+.items_center {
+  display: flex;
+  align-items: center;
+}
+.items_justify_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown_box {
+  position: absolute;
+  left: 0;
+  margin-top: 10px;
+  top: 39px;
+  border-radius: 6px;
+  min-width: 320px;
+  box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.3),
+    8px 8px 16px rgba(171, 178, 199, 0.5),
+    inset 8px 8px 16px rgba(171, 178, 199, 0.3),
+    inset -8px -8px 16px rgba(255, 255, 255, 0.7);
+  background-color: #edf0f9;
+}
+
+.divider .icon_text {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 15px;
+  gap: "10px";
+}
+
+.common_bg {
+  background-color: #edf0f9;
+}
+
+.searchbar {
+  background-color: #edf0f9;
+  box-shadow: 8px 8px 16px rgba(171, 178, 199, 0.5),
+    -10px -10px 16px rgba(255, 255, 255, 0.8);
+  border-radius: 4px;
+  padding: 7px 10px;
+  display: flex;
+  align-items: center;
+  height: 36px;
+}
+
+.searchbar input {
+  background-color: transparent;
+  padding: 0 10px;
+  font-size: 14px;  
+  width: 100%;
+}
+
+.searchbar input:focus {
+  outline: none;
+}
+
+.searchbar img {
+  width: 20px;
+  height: 20px;
+}
+
+.slider_heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.see_all_button {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.editbox {
+  display: flex;
+}
+
+.editbox input {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.green_gredient {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  background: linear-gradient(265.7deg, #2ec6b8 43.07%, #32e4d4 131.91%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.n_button {
+  background: linear-gradient(
+    268.03deg,
+    #5961f8 -0.66%,
+    #15d8c5 100%,
+    #15d8c5 100%
+  );
+  box-shadow: 8px 8px 16px rgba(171, 178, 199, 0.5),
+    -10px -10px 16px rgba(255, 255, 255, 0.8);
+  border-radius: 4px;
+  color: white;
+  font-size: 15px;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+
+.g_button {
+  background: #edf0f9;
+  box-shadow: 8px 8px 16px rgba(171, 178, 199, 0.5),
+    -10px -10px 16px rgba(255, 255, 255, 0.8);
+  border-radius: 4px;
+  font-size: 15px;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}

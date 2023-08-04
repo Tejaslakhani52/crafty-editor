@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.86133 9.69922V9.13172C7.86133 8.57943 8.30904 8.13172 8.86133 8.13172H15.1387C15.691 8.13172 16.1387 8.57943 16.1387 9.13172V9.69922" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M12 8.13117V16.3555" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M10.3984 15.9766H13.6012" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<mask id="mask0_86_513" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
+<path d="M1 1H23V23H1V1Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_86_513)">
+<path d="M3.98242 5.3789V18.4453" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M20.0176 5.3789V18.4453" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M5.37891 3.98047H18.6211" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M5.37891 20.0156H18.6211" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M5.91926 4.25129C5.91926 5.17176 5.17305 5.91797 4.25262 5.91797C3.33215 5.91797 2.58594 5.17176 2.58594 4.25129C2.58594 3.33082 3.33215 2.58461 4.25262 2.58461C5.17305 2.58461 5.91926 3.33082 5.91926 4.25129Z" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M5.91926 19.7474C5.91926 20.6679 5.17305 21.4141 4.25262 21.4141C3.33215 21.4141 2.58594 20.6679 2.58594 19.7474C2.58594 18.8269 3.33215 18.0807 4.25262 18.0807C5.17305 18.0807 5.91926 18.8269 5.91926 19.7474Z" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M21.4139 4.25129C21.4139 5.17176 20.6677 5.91797 19.7472 5.91797C18.8268 5.91797 18.0806 5.17176 18.0806 4.25129C18.0806 3.33082 18.8268 2.58461 19.7472 2.58461C20.6677 2.58461 21.4139 3.33082 21.4139 4.25129Z" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M21.4139 19.7474C21.4139 20.6679 20.6677 21.4141 19.7472 21.4141C18.8268 21.4141 18.0806 20.6679 18.0806 19.7474C18.0806 18.8269 18.8268 18.0807 19.7472 18.0807C20.6677 18.0807 21.4139 18.8269 21.4139 19.7474Z" stroke="#1C3048" stroke-width="1.5" stroke-miterlimit="10"/>
+</g>
+</svg>

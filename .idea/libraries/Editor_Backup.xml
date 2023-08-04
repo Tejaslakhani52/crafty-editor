@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Editor Backup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/icons/pannelbarIcons/Editor Backup.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

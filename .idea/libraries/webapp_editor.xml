@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webapp editor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/images/webapp editor.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
